@@ -1,0 +1,7 @@
+=== INFORME DEL SISTEMA ===
+Equipo:        PC-Gahona
+Sistema:       Windows_NT 10.0.26300 (x64)
+Usuario:       Gahona
+Memoria total: 15.64 GB
+Memoria libre: 6.92 GB
+Memoria usada: 55.8 %
